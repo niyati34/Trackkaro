@@ -1,7 +1,16 @@
-# Trackkaro
-Managingtransportation isn't just about getting from point Ato B 4 it's about safety, structure, and smart 
-decisions. Whether it's a school bus, 
-a college shuttle, or a logistics vehicle 
-Trackkaro makes managing 
-transportation seamless and 
-reliable.
+# new_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

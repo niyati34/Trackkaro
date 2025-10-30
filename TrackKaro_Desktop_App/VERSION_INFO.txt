@@ -1,0 +1,54 @@
+# Track-Karo Desktop App - Version History
+
+## Version 2.0.0 (Current)
+**Release Date:** October 13, 2025
+
+### ✨ Features:
+- Complete bus tracking dashboard
+- Route management system
+- Driver and student management
+- Real-time GPS tracking
+- Live camera integration
+- AI-powered chatbot assistance
+- Modern, responsive UI design
+
+### 🔧 Technical:
+- Built with Flutter 3.x
+- Windows 10/11 compatible
+- Optimized for desktop use
+- Secure API connectivity
+- Smooth navigation experience
+
+### 🎯 Modules:
+- **Dashboard** - Overview and statistics
+- **Manage Buses** - Bus fleet management
+- **Manage Drivers** - Driver information and assignments
+- **Student Details** - Student records and tracking
+- **Live Tracking** - Real-time bus locations
+- **Set Routes** - Route planning and management
+- **Live Camera** - Bus camera monitoring
+- **Notifications** - System alerts and updates
+- **Update Details** - System maintenance
+
+### 📊 Performance:
+- App size: ~30-47MB
+- Startup time: <5 seconds
+- Memory usage: ~100-200MB
+- Network: Low bandwidth usage
+
+### 🔐 Security:
+- Encrypted API communication
+- Secure user authentication
+- Organization-based access control
+- No local data storage (privacy-safe)
+
+---
+
+**For updates and support:**  
+Contact your system administrator or visit the Track-Karo support portal.
+
+**System Requirements:**  
+- Windows 10 (1903+) or Windows 11
+- 4GB RAM minimum
+- Internet connection required
+- 500MB free disk space
