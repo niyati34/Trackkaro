@@ -31,6 +31,22 @@ pro.env
 .pub/
 /build/
 
+# Desktop ephemeral build folders
+**/windows/flutter/ephemeral/
+**/linux/flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+
+# Coverage
+coverage/
+
+# FVM
+.fvm/
+
+# Large/binary artifacts
+TrackKaro_Desktop_App/
+*.zip
+nuget.exe
+
 # Symbolication related
 app.*.symbols
 
