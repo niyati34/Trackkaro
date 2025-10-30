@@ -1,4 +1,4 @@
-﻿# TrackKaro – Admin App
+﻿# TrackKaro – Admin + Student Apps
 
 Introducing our innovative fleet management system designed for real-time tracking of school buses, ensuring safety and efficiency for students and institutions.
 
@@ -6,13 +6,14 @@ With advanced GPS technology, you can monitor bus locations live, enhancing rout
 
 Our facial recognition boarding system provides secure student access, while the punch in/punch out feature automatically logs attendance as students board and exit the bus.
 
-Developed with Flutter, our user-friendly app offers a seamless experience across devices.
+Developed with Flutter, our user-friendly apps offer a seamless experience across devices.
 
 Enjoy benefits like enhanced safety, operational efficiency through automation, and peace of mind for parents with real-time notifications about their child's bus status. Transform the way you manage your fleet and ensure a safer journey for every student.
 
 ## Repository layout
 
 - dmin-app/ – Flutter Admin application source (this is the app you run/build)
+- student-app/ – Flutter Student application source
 - TrackKaro_Desktop_App/ – Prebuilt Windows desktop bundle (binary artifact)
 
 ## Run the Admin app locally
@@ -39,6 +40,21 @@ Run tests:
 
 `powershell
 flutter test
+`
+
+## Run the Student app locally
+
+From the student-app directory:
+
+`powershell
+# Install dependencies
+flutter pub get
+
+# Run on your preferred device
+flutter devices
+flutter run -d chrome          # Web
+# flutter run -d windows       # Windows desktop
+# flutter run -d <device_id>   # Android/iOS if configured
 `
 
 ## Build

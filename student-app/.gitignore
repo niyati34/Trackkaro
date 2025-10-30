@@ -15,7 +15,7 @@ migrate_working_dir/
 *.ipr
 *.iws
 .idea/
-pro.env
+
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
@@ -29,23 +29,7 @@ pro.env
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-**/build/
-
-# Desktop ephemeral build folders
-**/windows/flutter/ephemeral/
-**/linux/flutter/ephemeral/
-**/macos/Flutter/ephemeral/
-
-# Coverage
-coverage/
-
-# FVM
-.fvm/
-
-# Large/binary artifacts
-TrackKaro_Desktop_App/
-*.zip
-nuget.exe
+/build/
 
 # Symbolication related
 app.*.symbols
